@@ -55,5 +55,5 @@ Follow me to get notified when the video is ready, and let me know if you have a
 
 ## Inspired by
 
-(Laurence Gellert's Blog)[https://www.laurencegellert.com/software/github-graph-builder/]
-(Shpota)[https://github.com/Shpota/github-activity-generator]
+[Laurence Gellert's Blog](https://www.laurencegellert.com/software/github-graph-builder/)
+[Shpota](https://github.com/Shpota/github-activity-generator)
