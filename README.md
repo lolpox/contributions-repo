@@ -52,3 +52,8 @@ Check your GitHub profile’s contribution graph to see the result. Sometimes it
 Follow me to get notified when the video is ready, and let me know if you have any creative ideas to add!
 
 [LinkedIn](https://www.linkedin.com/in/mario-vicuna/)
+
+## Inspired by
+
+(Laurence Gellert's Blog)[https://www.laurencegellert.com/software/github-graph-builder/]
+(Shpota)[https://github.com/Shpota/github-activity-generator]
