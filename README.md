@@ -10,9 +10,6 @@ This script generates custom contributions on your GitHub activity graph, creati
 
 ⭐ If you like this idea, check out the repository and consider giving it a star! It would mean a lot and help others discover it.
 
-## How It Works  
-The script creates commits on specific dates defined in the `CUSTOM_DATES` list. Each date is processed with 5 commits to ensure visibility in the contribution graph.  
-
 ## Getting Started  
 
 ### Requirements  
